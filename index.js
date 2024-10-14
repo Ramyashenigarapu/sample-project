@@ -3,3 +3,9 @@ const multiply = (a,b) => {
 }
 
 multiply()
+
+
+const wordsCollabb = (a,b) => {
+    return (`Hello ${a},${b}`)
+}
+wordsCollabb()
